@@ -1,8 +1,6 @@
-Physicist | Software Engineer
+Physicist and Senior/ninja Software Engineer
 
-My name is pronounced [/ejˈtoʁ/](http://ipa-reader.xyz/?text=ej%CB%88to%CA%81).
-
-[![pgp](https://img.shields.io/badge/pgp-0xBLA-313131?style=flat&labelColor=313131&color=313131)](https://github.com/heitorPB.gpg)
+Visit my [blog](https://heitorpb.github.io), there's some cool things in there.
 
 My CV is available on your terminal, whenever you have internet access:
 
